@@ -1,0 +1,12 @@
+body {
+background-color: black;
+direction: rtl;
+color: aliceblue;
+}
+.meno {
+    text-decoration: none;
+}
+.pic1 {
+    width: auto;
+    height: 300px;
+}
